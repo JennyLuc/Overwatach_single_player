@@ -22,9 +22,9 @@ I will be forming questions as I work on analyzing this dataset.
 ### V 1.0 
 ---
 Goal: Understanding the player
-..* Overall player stats for DPS, Healer, and Tank.
-..* What character does the player main?
-..* What time does the player tend to play?
-..* Is there a game pattern that makes the player feel tilted after a game?
-..* Were there psychological changes throughout the time?
-..* Can we predict when a the player feels through the notes and stats?
+-Overall player stats for DPS, Healer, and Tank.
+-What character does the player main?
+-What time does the player tend to play?
+-Is there a game pattern that makes the player feel tilted after a game?
+-Were there psychological changes throughout the time?
+-Can we predict when a the player feels through the notes and stats?
